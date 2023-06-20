@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="innoPlugin">
+    <output-path>$PROJECT_DIR$/../../../놀이터/plugins</output-path>
+    <root id="archive" name="innoPlugin.jar">
+      <element id="module-output" name="innoPlugin" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>

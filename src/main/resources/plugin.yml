@@ -1,0 +1,7 @@
+name: innoPlugin
+version: '${project.version}'
+main: me.inno0422.innoplugin.Main
+api-version: 1.19
+commands:
+  test:
+    description: test

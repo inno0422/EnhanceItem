@@ -1,0 +1,3 @@
+CustomEnchant: true #true면 커스텀인첸트(랜덤인첸트) 사용, false면 사용 안함.
+Upgrade:
+  enable: true #true면 장비 강화 사용, false면 사용 안함.
